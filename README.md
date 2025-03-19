@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# プログラミング初心者が赤子のごとくゆっくりと学ぶページです
 
 _Get started using GitHub in less than an hour._
 
